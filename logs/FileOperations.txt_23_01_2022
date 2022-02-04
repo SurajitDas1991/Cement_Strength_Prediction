@@ -1,0 +1,30 @@
+2022-01-23 00:24:30,815 - [INFO] - src.file_operations - (file_operations.py).save_model(22) - Saving model
+2022-01-23 00:24:30,818 - [INFO] - src.file_operations - (file_operations.py).save_model(36) - Model File KMeans saved.
+2022-01-23 00:25:03,485 - [INFO] - src.file_operations - (file_operations.py).save_model(22) - Saving model
+2022-01-23 00:25:03,485 - [INFO] - src.file_operations - (file_operations.py).save_model(22) - Saving model
+2022-01-23 00:25:03,491 - [INFO] - src.file_operations - (file_operations.py).save_model(36) - Model File RandomForestRegressor2 saved.
+2022-01-23 00:25:03,491 - [INFO] - src.file_operations - (file_operations.py).save_model(36) - Model File RandomForestRegressor2 saved.
+2022-01-23 00:25:35,171 - [INFO] - src.file_operations - (file_operations.py).save_model(22) - Saving model
+2022-01-23 00:25:35,171 - [INFO] - src.file_operations - (file_operations.py).save_model(22) - Saving model
+2022-01-23 00:25:35,171 - [INFO] - src.file_operations - (file_operations.py).save_model(22) - Saving model
+2022-01-23 00:25:35,178 - [INFO] - src.file_operations - (file_operations.py).save_model(36) - Model File RandomForestRegressor1 saved.
+2022-01-23 00:25:35,178 - [INFO] - src.file_operations - (file_operations.py).save_model(36) - Model File RandomForestRegressor1 saved.
+2022-01-23 00:25:35,178 - [INFO] - src.file_operations - (file_operations.py).save_model(36) - Model File RandomForestRegressor1 saved.
+2022-01-23 00:26:05,342 - [INFO] - src.file_operations - (file_operations.py).save_model(22) - Saving model
+2022-01-23 00:26:05,342 - [INFO] - src.file_operations - (file_operations.py).save_model(22) - Saving model
+2022-01-23 00:26:05,342 - [INFO] - src.file_operations - (file_operations.py).save_model(22) - Saving model
+2022-01-23 00:26:05,342 - [INFO] - src.file_operations - (file_operations.py).save_model(22) - Saving model
+2022-01-23 00:26:05,345 - [INFO] - src.file_operations - (file_operations.py).save_model(36) - Model File LinearRegression0 saved.
+2022-01-23 00:26:05,345 - [INFO] - src.file_operations - (file_operations.py).save_model(36) - Model File LinearRegression0 saved.
+2022-01-23 00:26:05,345 - [INFO] - src.file_operations - (file_operations.py).save_model(36) - Model File LinearRegression0 saved.
+2022-01-23 00:26:05,345 - [INFO] - src.file_operations - (file_operations.py).save_model(36) - Model File LinearRegression0 saved.
+2022-01-23 00:26:36,570 - [INFO] - src.file_operations - (file_operations.py).save_model(22) - Saving model
+2022-01-23 00:26:36,570 - [INFO] - src.file_operations - (file_operations.py).save_model(22) - Saving model
+2022-01-23 00:26:36,570 - [INFO] - src.file_operations - (file_operations.py).save_model(22) - Saving model
+2022-01-23 00:26:36,570 - [INFO] - src.file_operations - (file_operations.py).save_model(22) - Saving model
+2022-01-23 00:26:36,570 - [INFO] - src.file_operations - (file_operations.py).save_model(22) - Saving model
+2022-01-23 00:26:36,577 - [INFO] - src.file_operations - (file_operations.py).save_model(36) - Model File RandomForestRegressor3 saved.
+2022-01-23 00:26:36,577 - [INFO] - src.file_operations - (file_operations.py).save_model(36) - Model File RandomForestRegressor3 saved.
+2022-01-23 00:26:36,577 - [INFO] - src.file_operations - (file_operations.py).save_model(36) - Model File RandomForestRegressor3 saved.
+2022-01-23 00:26:36,577 - [INFO] - src.file_operations - (file_operations.py).save_model(36) - Model File RandomForestRegressor3 saved.
+2022-01-23 00:26:36,577 - [INFO] - src.file_operations - (file_operations.py).save_model(36) - Model File RandomForestRegressor3 saved.

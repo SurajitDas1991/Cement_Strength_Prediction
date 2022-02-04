@@ -1,0 +1,50 @@
+2022-01-23 00:24:30,848 - [INFO] - src.model_tuner - (model_tuner.py).get_best_model(130) - Entered the get_best_model method of the Model_Finder class
+2022-01-23 00:24:30,848 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_linearReg(83) - Get the best params for linear regression
+2022-01-23 00:24:33,588 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_linearReg(113) - LinearRegression best params: {'copy_X': True, 'fit_intercept': True, 'normalize': True}
+2022-01-23 00:24:33,589 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_Random_Forest_Regressor(30) - Get the best params for random forest
+2022-01-23 00:25:03,474 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_Random_Forest_Regressor(67) - RandomForestReg best params: {'bootstrap': True, 'max_features': 'log2', 'min_samples_split': 2, 'n_estimators': 20}
+2022-01-23 00:25:03,518 - [INFO] - src.model_tuner - (model_tuner.py).get_best_model(130) - Entered the get_best_model method of the Model_Finder class
+2022-01-23 00:25:03,518 - [INFO] - src.model_tuner - (model_tuner.py).get_best_model(130) - Entered the get_best_model method of the Model_Finder class
+2022-01-23 00:25:03,519 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_linearReg(83) - Get the best params for linear regression
+2022-01-23 00:25:03,519 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_linearReg(83) - Get the best params for linear regression
+2022-01-23 00:25:04,537 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_linearReg(113) - LinearRegression best params: {'copy_X': True, 'fit_intercept': True, 'normalize': False}
+2022-01-23 00:25:04,537 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_linearReg(113) - LinearRegression best params: {'copy_X': True, 'fit_intercept': True, 'normalize': False}
+2022-01-23 00:25:04,558 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_Random_Forest_Regressor(30) - Get the best params for random forest
+2022-01-23 00:25:04,558 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_Random_Forest_Regressor(30) - Get the best params for random forest
+2022-01-23 00:25:35,158 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_Random_Forest_Regressor(67) - RandomForestReg best params: {'bootstrap': False, 'max_features': 'log2', 'min_samples_split': 2, 'n_estimators': 30}
+2022-01-23 00:25:35,158 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_Random_Forest_Regressor(67) - RandomForestReg best params: {'bootstrap': False, 'max_features': 'log2', 'min_samples_split': 2, 'n_estimators': 30}
+2022-01-23 00:25:35,200 - [INFO] - src.model_tuner - (model_tuner.py).get_best_model(130) - Entered the get_best_model method of the Model_Finder class
+2022-01-23 00:25:35,200 - [INFO] - src.model_tuner - (model_tuner.py).get_best_model(130) - Entered the get_best_model method of the Model_Finder class
+2022-01-23 00:25:35,200 - [INFO] - src.model_tuner - (model_tuner.py).get_best_model(130) - Entered the get_best_model method of the Model_Finder class
+2022-01-23 00:25:35,200 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_linearReg(83) - Get the best params for linear regression
+2022-01-23 00:25:35,200 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_linearReg(83) - Get the best params for linear regression
+2022-01-23 00:25:35,200 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_linearReg(83) - Get the best params for linear regression
+2022-01-23 00:25:36,829 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_linearReg(113) - LinearRegression best params: {'copy_X': True, 'fit_intercept': True, 'normalize': False}
+2022-01-23 00:25:36,829 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_linearReg(113) - LinearRegression best params: {'copy_X': True, 'fit_intercept': True, 'normalize': False}
+2022-01-23 00:25:36,829 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_linearReg(113) - LinearRegression best params: {'copy_X': True, 'fit_intercept': True, 'normalize': False}
+2022-01-23 00:25:36,832 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_Random_Forest_Regressor(30) - Get the best params for random forest
+2022-01-23 00:25:36,832 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_Random_Forest_Regressor(30) - Get the best params for random forest
+2022-01-23 00:25:36,832 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_Random_Forest_Regressor(30) - Get the best params for random forest
+2022-01-23 00:26:05,328 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_Random_Forest_Regressor(67) - RandomForestReg best params: {'bootstrap': True, 'max_features': 'auto', 'min_samples_split': 2, 'n_estimators': 30}
+2022-01-23 00:26:05,328 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_Random_Forest_Regressor(67) - RandomForestReg best params: {'bootstrap': True, 'max_features': 'auto', 'min_samples_split': 2, 'n_estimators': 30}
+2022-01-23 00:26:05,328 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_Random_Forest_Regressor(67) - RandomForestReg best params: {'bootstrap': True, 'max_features': 'auto', 'min_samples_split': 2, 'n_estimators': 30}
+2022-01-23 00:26:05,368 - [INFO] - src.model_tuner - (model_tuner.py).get_best_model(130) - Entered the get_best_model method of the Model_Finder class
+2022-01-23 00:26:05,368 - [INFO] - src.model_tuner - (model_tuner.py).get_best_model(130) - Entered the get_best_model method of the Model_Finder class
+2022-01-23 00:26:05,368 - [INFO] - src.model_tuner - (model_tuner.py).get_best_model(130) - Entered the get_best_model method of the Model_Finder class
+2022-01-23 00:26:05,368 - [INFO] - src.model_tuner - (model_tuner.py).get_best_model(130) - Entered the get_best_model method of the Model_Finder class
+2022-01-23 00:26:05,368 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_linearReg(83) - Get the best params for linear regression
+2022-01-23 00:26:05,368 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_linearReg(83) - Get the best params for linear regression
+2022-01-23 00:26:05,368 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_linearReg(83) - Get the best params for linear regression
+2022-01-23 00:26:05,368 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_linearReg(83) - Get the best params for linear regression
+2022-01-23 00:26:07,075 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_linearReg(113) - LinearRegression best params: {'copy_X': True, 'fit_intercept': True, 'normalize': False}
+2022-01-23 00:26:07,075 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_linearReg(113) - LinearRegression best params: {'copy_X': True, 'fit_intercept': True, 'normalize': False}
+2022-01-23 00:26:07,075 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_linearReg(113) - LinearRegression best params: {'copy_X': True, 'fit_intercept': True, 'normalize': False}
+2022-01-23 00:26:07,075 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_linearReg(113) - LinearRegression best params: {'copy_X': True, 'fit_intercept': True, 'normalize': False}
+2022-01-23 00:26:07,077 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_Random_Forest_Regressor(30) - Get the best params for random forest
+2022-01-23 00:26:07,077 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_Random_Forest_Regressor(30) - Get the best params for random forest
+2022-01-23 00:26:07,077 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_Random_Forest_Regressor(30) - Get the best params for random forest
+2022-01-23 00:26:07,077 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_Random_Forest_Regressor(30) - Get the best params for random forest
+2022-01-23 00:26:36,559 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_Random_Forest_Regressor(67) - RandomForestReg best params: {'bootstrap': False, 'max_features': 'log2', 'min_samples_split': 2, 'n_estimators': 30}
+2022-01-23 00:26:36,559 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_Random_Forest_Regressor(67) - RandomForestReg best params: {'bootstrap': False, 'max_features': 'log2', 'min_samples_split': 2, 'n_estimators': 30}
+2022-01-23 00:26:36,559 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_Random_Forest_Regressor(67) - RandomForestReg best params: {'bootstrap': False, 'max_features': 'log2', 'min_samples_split': 2, 'n_estimators': 30}
+2022-01-23 00:26:36,559 - [INFO] - src.model_tuner - (model_tuner.py).get_best_params_for_Random_Forest_Regressor(67) - RandomForestReg best params: {'bootstrap': False, 'max_features': 'log2', 'min_samples_split': 2, 'n_estimators': 30}

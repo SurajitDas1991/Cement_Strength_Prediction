@@ -1,0 +1,3 @@
+2022-01-23 00:23:59,650 - [INFO] - src.preprocessing - (preprocessing.py).is_null_present(51) - Checking if there are any null values in the dataset
+2022-01-23 00:23:59,656 - [INFO] - src.preprocessing - (preprocessing.py).separate_label_feature(82) - Entered the separate_label_feature method of the Preprocessor class
+2022-01-23 00:23:59,659 - [INFO] - src.preprocessing - (preprocessing.py).separate_label_feature(90) - Label Separation Successful.

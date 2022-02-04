@@ -1,0 +1,507 @@
+2022-01-26 00:19:42,215 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 00:19:42,219 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 00:19:42,222 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 00:19:42,227 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 00:19:42,263 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 00:19:42,290 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 00:19:42,317 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 00:19:42,317 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 00:19:42,360 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 00:19:42,404 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 00:19:42,405 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 00:19:52,550 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 00:19:52,560 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 00:23:25,348 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 00:23:25,351 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 00:23:25,353 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 00:23:25,357 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 00:23:25,360 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 00:23:25,363 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 00:23:25,366 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 00:23:25,366 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 00:23:25,427 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 00:23:25,465 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 00:23:25,466 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 00:23:35,610 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 00:23:35,613 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 00:30:44,617 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 00:30:44,622 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 00:30:44,624 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 00:30:44,628 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 00:30:44,647 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 00:30:44,650 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 00:30:44,653 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 00:30:44,653 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 00:30:44,686 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 00:30:44,717 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 00:30:44,717 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 00:30:54,267 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 00:30:54,271 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 00:35:19,257 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 00:35:19,261 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 00:35:19,263 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 00:35:19,267 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 00:35:19,272 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 00:35:19,276 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 00:35:19,284 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 00:35:19,285 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 00:35:19,323 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 00:35:19,353 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 00:35:19,354 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 00:35:29,112 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 00:35:29,115 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 00:39:04,579 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 00:39:04,583 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 00:39:04,585 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 00:39:04,606 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 00:39:04,610 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 00:39:04,613 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 00:39:04,617 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 00:39:04,617 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 00:39:04,710 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 00:39:04,816 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 00:39:04,816 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 00:39:15,799 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 00:39:15,803 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 12:29:24,757 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 12:29:24,765 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 12:29:24,768 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 12:29:24,773 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 12:29:24,823 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 12:29:24,846 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 12:29:24,880 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 12:29:24,880 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 12:29:24,916 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 12:29:24,983 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 12:29:24,984 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 12:29:34,842 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 12:29:34,846 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 14:48:41,710 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 14:48:41,713 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 14:48:41,715 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 14:48:41,719 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 14:48:41,722 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 14:48:41,725 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 14:48:41,728 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 14:48:41,729 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 14:48:41,788 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 14:48:41,845 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 14:48:41,846 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 14:48:51,930 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 14:48:51,933 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 14:53:20,724 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 14:53:20,727 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 14:53:20,728 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 14:53:20,733 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 14:53:20,736 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 14:53:20,739 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 14:53:20,749 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 14:53:20,749 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 14:53:20,815 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 14:53:20,862 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 14:53:20,862 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 14:53:30,351 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 14:53:30,355 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 15:53:18,090 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 15:53:18,092 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 15:53:18,095 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 15:53:18,118 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 15:53:18,122 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 15:53:18,126 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 15:53:18,129 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 15:53:18,130 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 15:53:18,174 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 15:53:18,207 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 15:53:18,208 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 15:53:29,096 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 15:53:29,099 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 16:32:52,857 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 16:32:52,860 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 16:32:52,861 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 16:32:52,866 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 16:32:52,876 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 16:32:52,879 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 16:32:52,882 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 16:32:52,899 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 16:32:52,994 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 16:32:53,022 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 16:32:53,023 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 16:33:03,036 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 16:33:03,133 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 17:29:58,878 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 17:29:58,882 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 17:29:58,886 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 17:29:58,890 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 17:29:58,894 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 17:29:58,897 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 17:29:58,899 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 17:29:58,900 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 17:29:58,937 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 17:29:58,983 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 17:29:58,984 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 17:30:09,575 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 17:30:09,578 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 17:32:49,437 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 17:32:49,440 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 17:32:49,441 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 17:32:49,445 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 17:32:49,449 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 17:32:49,451 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 17:32:49,454 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 17:32:49,454 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 17:32:49,489 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 17:32:49,571 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 17:32:49,572 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 17:32:59,675 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 17:32:59,679 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 17:39:47,801 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 17:39:47,804 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 17:39:47,805 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 17:39:47,810 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 17:39:47,813 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 17:39:47,815 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 17:39:47,818 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 17:39:47,818 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 17:39:47,858 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 17:39:47,896 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 17:39:47,897 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 17:39:56,779 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 17:39:56,783 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 17:43:02,308 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 17:43:02,310 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 17:43:02,312 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 17:43:02,317 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 17:43:02,320 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 17:43:02,323 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 17:43:02,325 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 17:43:02,326 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 17:43:02,366 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 17:43:02,395 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 17:43:02,396 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 17:43:11,507 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 17:43:11,510 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 17:56:56,099 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 17:56:56,102 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 17:56:56,103 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 17:56:56,107 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 17:56:56,111 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 17:56:56,114 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 17:56:56,117 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 17:56:56,117 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 17:56:56,149 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 17:56:56,178 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 17:56:56,179 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 17:57:05,136 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 17:57:05,140 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 18:36:55,962 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 18:36:55,965 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 18:36:55,967 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 18:36:55,972 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 18:36:55,975 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 18:36:55,981 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 18:36:56,033 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 18:36:56,034 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 18:36:56,192 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 18:36:56,260 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 18:36:56,261 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 18:37:05,507 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 18:37:05,510 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 19:14:52,734 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 19:14:52,737 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 19:14:52,738 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 19:14:52,743 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 19:14:52,746 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 19:14:52,749 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 19:14:52,754 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 19:14:52,755 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 19:14:52,830 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 19:14:52,861 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 19:14:52,862 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 19:15:02,076 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 19:15:02,080 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 19:27:43,206 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 19:27:43,209 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 19:27:43,211 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 19:27:43,215 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 19:27:43,218 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 19:27:43,222 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 19:27:43,226 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 19:27:43,226 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 19:27:43,320 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 19:27:43,399 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 19:27:43,400 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 19:27:53,428 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 19:27:53,432 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 19:46:16,435 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 19:46:16,438 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 19:46:16,439 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 19:46:16,444 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 19:46:16,446 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 19:46:16,450 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 19:46:16,454 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 19:46:16,454 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 19:46:16,499 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 19:46:16,553 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 19:46:16,553 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 19:46:25,440 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 19:46:25,443 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 20:15:02,410 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 20:15:02,413 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 20:15:02,415 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 20:15:02,425 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 20:15:02,429 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 20:15:02,432 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 20:15:02,434 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 20:15:02,435 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 20:15:02,474 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 20:15:02,504 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 20:15:02,506 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 20:15:11,557 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 20:15:11,560 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 20:18:46,863 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 20:18:46,867 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 20:18:46,870 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 20:18:46,880 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 20:18:46,910 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 20:18:46,951 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 20:18:46,975 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 20:18:46,976 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 20:18:47,039 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 20:18:47,087 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 20:18:55,586 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 20:19:05,783 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 20:19:05,788 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 20:35:30,960 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 20:35:30,968 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 20:35:30,971 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 20:35:30,975 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 20:35:30,979 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 20:35:30,982 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 20:35:30,984 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 20:35:30,985 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 20:35:31,046 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 20:35:31,082 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 20:35:31,083 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 20:35:41,578 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 20:35:41,582 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 20:39:03,935 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 20:39:03,937 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 20:39:03,939 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 20:39:03,944 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 20:39:03,948 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 20:39:03,951 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 20:39:03,963 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 20:39:03,963 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 20:39:03,996 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 20:39:04,028 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 20:39:04,029 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 20:39:14,601 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 20:39:14,605 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 20:44:31,165 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 20:44:31,176 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 20:44:31,195 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 20:44:31,199 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 20:44:31,205 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 20:44:31,210 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 20:44:31,214 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 20:44:31,215 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 20:44:31,271 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 20:44:31,320 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 20:44:31,321 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 20:44:40,405 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 20:44:40,409 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 20:47:37,757 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 20:47:37,762 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 20:47:37,765 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 20:47:37,772 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 20:47:37,776 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 20:47:37,779 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 20:47:37,783 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 20:47:37,783 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 20:47:37,910 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 20:47:37,945 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 20:47:37,945 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 20:47:48,839 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 20:47:48,843 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 20:51:10,633 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 20:51:10,647 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 20:51:10,650 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 20:51:10,655 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 20:51:10,660 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 20:51:10,676 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 20:51:10,682 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 20:51:10,682 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 20:51:10,718 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 20:51:10,762 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 20:51:10,763 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 20:51:20,788 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 20:51:20,791 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 21:01:10,267 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 21:01:10,272 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 21:01:10,274 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 21:01:10,279 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 21:01:10,283 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 21:01:10,288 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 21:01:10,292 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 21:01:10,292 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 21:01:10,487 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 21:01:10,543 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 21:01:10,543 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 21:01:21,176 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 21:01:21,180 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 21:06:39,034 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 21:06:39,037 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 21:06:39,039 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 21:06:39,044 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 21:06:39,047 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 21:06:39,051 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 21:06:39,064 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 21:06:39,064 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 21:06:39,124 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 21:06:39,203 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 21:06:39,203 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 21:06:50,589 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 21:06:50,592 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 21:15:51,326 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 21:15:51,329 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 21:15:51,332 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 21:15:51,337 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 21:15:51,341 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 21:15:51,344 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 21:15:51,348 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 21:15:51,348 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 21:15:51,390 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 21:15:51,426 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 21:15:51,426 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 21:16:01,486 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 21:16:01,490 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 21:56:06,863 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 21:56:06,866 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 21:56:06,868 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 21:56:06,875 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 21:56:06,880 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 21:56:06,884 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 21:56:06,887 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 21:56:06,887 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 21:56:06,942 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 21:56:07,013 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 21:56:07,013 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 21:56:17,153 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 21:56:17,159 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 22:01:08,848 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 22:01:08,854 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 22:01:08,858 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 22:01:08,872 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 22:01:08,877 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 22:01:08,881 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 22:01:08,884 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 22:01:08,885 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 22:01:08,974 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 22:01:09,064 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 22:01:09,065 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 22:01:17,616 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 22:01:17,619 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 22:11:57,138 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 22:11:57,140 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 22:11:57,142 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 22:11:57,146 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 22:11:57,149 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 22:11:57,155 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 22:11:57,159 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 22:11:57,159 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 22:11:57,189 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 22:11:57,227 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 22:11:57,227 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 22:12:05,954 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 22:12:05,958 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 23:09:37,719 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 23:09:37,722 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 23:09:37,723 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 23:09:37,728 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 23:09:37,732 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 23:09:37,735 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 23:09:37,739 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 23:09:37,739 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 23:09:37,774 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 23:09:37,804 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 23:09:37,805 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 23:09:46,475 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 23:09:46,479 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 23:24:42,532 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 23:24:42,535 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 23:24:42,539 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 23:24:42,544 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 23:24:42,547 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 23:24:42,550 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 23:24:42,553 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 23:24:42,553 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 23:24:42,599 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 23:24:42,636 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 23:24:42,636 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 23:24:51,310 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 23:24:51,313 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 23:27:38,882 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 23:27:38,885 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 23:27:38,887 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 23:27:38,892 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 23:27:38,898 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 23:27:38,902 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 23:27:38,905 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 23:27:38,905 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 23:27:38,973 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 23:27:39,040 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 23:27:39,041 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 23:27:48,524 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 23:27:48,528 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 23:33:54,418 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 23:33:54,422 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 23:33:54,424 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 23:33:54,429 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 23:33:54,434 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 23:33:54,436 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 23:33:54,439 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 23:33:54,439 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 23:33:54,474 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 23:33:54,514 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 23:33:54,514 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 23:34:05,206 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 23:34:05,209 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 23:36:50,235 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 23:36:50,238 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 23:36:50,240 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 23:36:50,246 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 23:36:50,256 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 23:36:50,260 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 23:36:50,263 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 23:36:50,264 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 23:36:50,339 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 23:36:50,408 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 23:36:56,846 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 23:37:09,383 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 23:37:09,388 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 23:42:59,805 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 23:42:59,808 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 23:42:59,810 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 23:42:59,814 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 23:42:59,849 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 23:42:59,873 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 23:42:59,895 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 23:42:59,895 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 23:42:59,925 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 23:42:59,978 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 23:42:59,979 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 23:43:09,000 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 23:43:09,003 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
+2022-01-26 23:48:32,473 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-26 23:48:32,476 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-26 23:48:32,477 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-26 23:48:32,482 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-26 23:48:32,485 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-26 23:48:32,494 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-26 23:48:32,496 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-26 23:48:32,497 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-26 23:48:32,529 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-26 23:48:32,565 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-26 23:48:32,565 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-26 23:48:42,024 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-26 23:48:42,028 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'

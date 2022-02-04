@@ -1,0 +1,7 @@
+.env
+/venv/
+/src.egg-info/
+/dist/
+/catboost_info/
+/.vscode/
+/build/

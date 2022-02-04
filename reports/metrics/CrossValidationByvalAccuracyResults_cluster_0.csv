@@ -1,0 +1,14 @@
+,model,val_accuracy,Training time (sec)
+0,GradientBoost,0.8996,1.1454
+1,Catboost,0.8963,1.0865
+2,XGBoost,0.8913,15.9366
+3,Ridge,0.8891,0.0026
+4,LinearRegression,0.8883,0.0023
+5,Lasso,0.8877,0.0027
+6,LightGBM,0.8407,4.4755
+7,ExtraTrees,0.8402,0.1401
+8,RandomForest,0.8361,0.6733
+9,AdaBoost,0.8361,0.8263
+10,StackingRegressor,0.8171,63.4095
+11,SVR,0.8141,0.0115
+12,KNN,0.752,0.0023

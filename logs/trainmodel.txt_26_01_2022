@@ -1,0 +1,472 @@
+2022-01-26 00:19:42,196 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 00:19:42,453 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 00:19:42,453 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 00:19:42,490 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 00:19:42,490 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 00:19:52,551 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 00:19:52,551 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 00:19:52,560 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 00:19:52,560 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 00:19:52,560 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 00:19:52,668 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 00:20:40,570 - [ERROR] - src.train - (train.py).train_model(149) - Training did not complete succesfully
+2022-01-26 00:23:25,347 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 00:23:25,538 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 00:23:25,538 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 00:23:25,541 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 00:23:25,541 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 00:23:35,610 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 00:23:35,610 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 00:23:35,613 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 00:23:35,614 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 00:23:35,614 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 00:23:35,699 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 00:30:44,616 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 00:30:44,796 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 00:30:44,796 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 00:30:44,800 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 00:30:44,800 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 00:30:54,267 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 00:30:54,268 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 00:30:54,271 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 00:30:54,271 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 00:30:54,272 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 00:30:54,370 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 00:32:05,544 - [ERROR] - src.train - (train.py).train_model(149) - Training did not complete succesfully
+2022-01-26 00:35:19,256 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 00:35:19,401 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 00:35:19,401 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 00:35:19,405 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 00:35:19,405 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 00:35:29,112 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 00:35:29,112 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 00:35:29,116 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 00:35:29,116 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 00:35:29,116 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 00:35:29,191 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 00:36:23,562 - [ERROR] - src.train - (train.py).train_model(149) - Training did not complete succesfully
+2022-01-26 00:39:04,578 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 00:39:04,895 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 00:39:04,896 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 00:39:04,898 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 00:39:04,899 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 00:39:15,799 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 00:39:15,799 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 00:39:15,804 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 00:39:15,804 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 00:39:15,804 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 00:39:15,903 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 12:29:24,726 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 12:29:25,057 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 12:29:25,061 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 12:29:25,125 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 12:29:25,125 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 12:29:34,842 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 12:29:34,843 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 12:29:34,846 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 12:29:34,847 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 12:29:34,847 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 12:29:35,053 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 14:48:41,709 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 14:48:41,914 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 14:48:41,923 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 14:48:41,927 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 14:48:41,927 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 14:48:51,930 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 14:48:51,930 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 14:48:51,933 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 14:48:51,934 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 14:48:51,935 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 14:48:52,038 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 14:53:20,722 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 14:53:20,981 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 14:53:20,981 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 14:53:20,985 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 14:53:20,985 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 14:53:30,352 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 14:53:30,352 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 14:53:30,356 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 14:53:30,356 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 14:53:30,356 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 14:53:30,480 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 15:53:18,088 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 15:53:18,257 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 15:53:18,258 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 15:53:18,261 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 15:53:18,261 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 15:53:29,096 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 15:53:29,096 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 15:53:29,100 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 15:53:29,100 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 15:53:29,100 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 15:53:29,230 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 16:24:08,153 - [INFO] - src.train - (train.py).train_model(146) - Successful End of Training
+2022-01-26 16:32:52,856 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 16:32:53,057 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 16:32:53,057 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 16:32:53,059 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 16:32:53,060 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 16:33:03,036 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 16:33:03,036 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 16:33:03,134 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 16:33:03,134 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 16:33:03,134 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 16:33:03,290 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 17:29:58,877 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 17:29:59,055 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 17:29:59,055 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 17:29:59,062 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 17:29:59,063 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 17:30:09,575 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 17:30:09,576 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 17:30:09,579 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 17:30:09,579 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 17:30:09,579 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 17:30:09,732 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 17:31:26,156 - [ERROR] - src.train - (train.py).train_model(150) - Training did not complete succesfully
+2022-01-26 17:32:49,436 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 17:32:49,681 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 17:32:49,682 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 17:32:49,689 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 17:32:49,689 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 17:32:59,676 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 17:32:59,676 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 17:32:59,679 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 17:32:59,679 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 17:32:59,680 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 17:32:59,963 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 17:34:28,387 - [ERROR] - src.train - (train.py).train_model(150) - Training did not complete succesfully
+2022-01-26 17:39:47,800 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 17:39:47,933 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 17:39:47,933 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 17:39:47,938 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 17:39:47,938 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 17:39:56,780 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 17:39:56,780 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 17:39:56,784 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 17:39:56,784 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 17:39:56,784 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 17:39:56,976 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 17:41:11,579 - [ERROR] - src.train - (train.py).train_model(150) - Training did not complete succesfully
+2022-01-26 17:43:02,307 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 17:43:02,436 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 17:43:02,436 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 17:43:02,440 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 17:43:02,440 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 17:43:11,508 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 17:43:11,508 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 17:43:11,511 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 17:43:11,511 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 17:43:11,511 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 17:43:11,695 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 17:50:21,725 - [ERROR] - src.train - (train.py).train_model(150) - Training did not complete succesfully
+2022-01-26 17:56:56,099 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 17:56:56,221 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 17:56:56,221 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 17:56:56,225 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 17:56:56,225 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 17:57:05,136 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 17:57:05,137 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 17:57:05,140 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 17:57:05,141 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 17:57:05,141 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 17:57:05,332 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 18:03:32,034 - [ERROR] - src.train - (train.py).train_model(150) - Training did not complete succesfully
+2022-01-26 18:36:55,961 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 18:36:56,356 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 18:36:56,356 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 18:36:56,359 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 18:36:56,360 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 18:37:05,507 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 18:37:05,507 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 18:37:05,510 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 18:37:05,510 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 18:37:05,510 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 18:37:05,709 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 18:53:00,324 - [ERROR] - src.train - (train.py).train_model(150) - Training did not complete succesfully
+2022-01-26 19:14:52,733 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 19:14:52,899 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 19:14:52,902 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 19:14:52,905 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 19:14:52,905 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 19:15:02,077 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 19:15:02,077 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 19:15:02,080 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 19:15:02,080 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 19:15:02,080 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 19:15:02,254 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 19:23:52,987 - [ERROR] - src.train - (train.py).train_model(150) - Training did not complete succesfully
+2022-01-26 19:27:43,205 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 19:27:43,445 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 19:27:43,445 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 19:27:43,448 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 19:27:43,448 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 19:27:53,429 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 19:27:53,429 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 19:27:53,432 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 19:27:53,433 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 19:27:53,433 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 19:27:53,648 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 19:40:04,512 - [ERROR] - src.train - (train.py).train_model(150) - Training did not complete succesfully
+2022-01-26 19:46:16,435 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 19:46:16,594 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 19:46:16,595 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 19:46:16,605 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 19:46:16,606 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 19:46:25,440 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 19:46:25,440 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 19:46:25,443 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 19:46:25,444 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 19:46:25,444 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 19:46:25,725 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 20:06:19,849 - [ERROR] - src.train - (train.py).train_model(150) - Training did not complete succesfully
+2022-01-26 20:15:02,410 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 20:15:02,544 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 20:15:02,545 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 20:15:02,547 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 20:15:02,547 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 20:15:11,557 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 20:15:11,557 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 20:15:11,560 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 20:15:11,560 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 20:15:11,560 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 20:15:11,974 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 20:16:48,930 - [ERROR] - src.train - (train.py).train_model(150) - Training did not complete succesfully
+2022-01-26 20:18:46,824 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 20:18:55,763 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 20:18:55,764 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 20:18:55,831 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 20:18:55,831 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 20:19:05,783 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 20:19:05,784 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 20:19:05,790 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 20:19:05,792 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 20:19:05,792 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 20:19:08,938 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 20:35:30,958 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 20:35:31,157 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 20:35:31,158 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 20:35:31,161 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 20:35:31,161 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 20:35:41,579 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 20:35:41,579 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 20:35:41,583 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 20:35:41,583 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 20:35:41,583 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 20:35:41,901 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 20:37:20,212 - [ERROR] - src.train - (train.py).train_model(153) - Training did not complete succesfully
+2022-01-26 20:39:03,934 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 20:39:04,075 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 20:39:04,075 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 20:39:04,078 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 20:39:04,079 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 20:39:14,602 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 20:39:14,602 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 20:39:14,605 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 20:39:14,605 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 20:39:14,605 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 20:39:14,866 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 20:40:52,800 - [ERROR] - src.train - (train.py).train_model(153) - Training did not complete succesfully
+2022-01-26 20:44:31,164 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 20:44:31,402 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 20:44:31,402 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 20:44:31,405 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 20:44:31,405 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 20:44:40,406 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 20:44:40,406 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 20:44:40,409 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 20:44:40,409 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 20:44:40,409 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 20:44:40,701 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 20:46:23,636 - [ERROR] - src.train - (train.py).train_model(153) - Training did not complete succesfully
+2022-01-26 20:47:37,757 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 20:47:38,030 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 20:47:38,031 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 20:47:38,041 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 20:47:38,041 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 20:47:48,840 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 20:47:48,840 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 20:47:48,843 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 20:47:48,844 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 20:47:48,844 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 20:47:49,183 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 20:49:30,894 - [ERROR] - src.train - (train.py).train_model(153) - Training did not complete succesfully
+2022-01-26 20:51:10,632 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 20:51:10,811 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 20:51:10,811 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 20:51:10,814 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 20:51:10,814 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 20:51:20,788 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 20:51:20,788 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 20:51:20,791 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 20:51:20,792 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 20:51:20,792 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 20:51:21,063 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 20:53:14,950 - [INFO] - src.train - (train.py).train_model(146) - Completed training for cluster 2
+2022-01-26 20:54:34,096 - [INFO] - src.train - (train.py).train_model(146) - Completed training for cluster 1
+2022-01-26 20:55:44,187 - [INFO] - src.train - (train.py).train_model(146) - Completed training for cluster 0
+2022-01-26 20:57:06,634 - [INFO] - src.train - (train.py).train_model(146) - Completed training for cluster 3
+2022-01-26 20:57:06,635 - [INFO] - src.train - (train.py).train_model(149) - Successful End of Training
+2022-01-26 21:01:10,265 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 21:01:10,622 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 21:01:10,622 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 21:01:10,637 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 21:01:10,637 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 21:01:21,177 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 21:01:21,177 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 21:01:21,180 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 21:01:21,181 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 21:01:21,181 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 21:01:21,522 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 21:03:01,803 - [ERROR] - src.train - (train.py).train_model(153) - Training did not complete succesfully
+2022-01-26 21:06:39,033 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 21:06:39,245 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 21:06:39,245 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 21:06:39,248 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 21:06:39,249 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 21:06:50,589 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 21:06:50,589 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 21:06:50,592 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 21:06:50,592 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 21:06:50,592 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 21:06:50,970 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 21:08:46,743 - [ERROR] - src.train - (train.py).train_model(153) - Training did not complete succesfully
+2022-01-26 21:15:51,325 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 21:15:51,470 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 21:15:51,470 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 21:15:51,473 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 21:15:51,474 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 21:16:01,486 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 21:16:01,486 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 21:16:01,490 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 21:16:01,490 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 21:16:01,491 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 21:16:01,920 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 21:29:43,609 - [INFO] - src.train - (train.py).train_model(146) - Completed training for cluster 2
+2022-01-26 21:43:53,139 - [INFO] - src.train - (train.py).train_model(146) - Completed training for cluster 1
+2022-01-26 21:56:06,862 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 21:56:07,073 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 21:56:07,074 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 21:56:07,077 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 21:56:07,078 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 21:56:17,154 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 21:56:17,154 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 21:56:17,160 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 21:56:17,160 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 21:56:17,160 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 21:56:17,660 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 21:57:50,629 - [ERROR] - src.train - (train.py).train_model(153) - Training did not complete succesfully
+2022-01-26 22:01:08,847 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 22:01:09,120 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 22:01:09,122 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 22:01:09,126 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 22:01:09,126 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 22:01:17,616 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 22:01:17,616 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 22:01:17,619 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 22:01:17,620 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 22:01:17,620 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 22:01:18,706 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 22:11:57,137 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 22:11:57,266 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 22:11:57,267 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 22:11:57,269 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 22:11:57,270 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 22:12:05,955 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 22:12:05,955 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 22:12:05,958 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 22:12:05,958 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 22:12:05,958 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 22:12:06,297 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 22:21:54,112 - [INFO] - src.train - (train.py).train_model(146) - Completed training for cluster 2
+2022-01-26 22:33:15,816 - [INFO] - src.train - (train.py).train_model(146) - Completed training for cluster 1
+2022-01-26 22:45:10,437 - [INFO] - src.train - (train.py).train_model(146) - Completed training for cluster 0
+2022-01-26 22:57:17,658 - [INFO] - src.train - (train.py).train_model(146) - Completed training for cluster 3
+2022-01-26 22:57:17,658 - [INFO] - src.train - (train.py).train_model(149) - Successful End of Training
+2022-01-26 23:09:37,718 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 23:09:37,847 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 23:09:37,847 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 23:09:37,850 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 23:09:37,851 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 23:09:46,475 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 23:09:46,476 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 23:09:46,479 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 23:09:46,479 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 23:09:46,479 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 23:09:46,801 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 23:20:49,146 - [ERROR] - src.train - (train.py).train_model(153) - Training did not complete succesfully
+2022-01-26 23:24:42,532 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 23:24:42,672 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 23:24:42,673 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 23:24:42,676 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 23:24:42,676 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 23:24:51,310 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 23:24:51,311 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 23:24:51,314 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 23:24:51,314 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 23:24:51,314 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 23:24:51,654 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 23:25:12,074 - [ERROR] - src.train - (train.py).train_model(153) - Training did not complete succesfully
+2022-01-26 23:27:38,880 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 23:27:39,104 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 23:27:39,105 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 23:27:39,108 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 23:27:39,108 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 23:27:48,525 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 23:27:48,525 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 23:27:48,528 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 23:27:48,528 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 23:27:48,528 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 23:27:48,989 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 23:28:04,829 - [ERROR] - src.train - (train.py).train_model(153) - Training did not complete succesfully
+2022-01-26 23:33:54,417 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 23:33:54,558 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 23:33:54,558 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 23:33:54,561 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 23:33:54,561 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 23:34:05,206 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 23:34:05,206 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 23:34:05,209 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 23:34:05,210 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 23:34:05,210 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 23:34:05,625 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 23:34:32,953 - [ERROR] - src.train - (train.py).train_model(153) - Training did not complete succesfully
+2022-01-26 23:36:50,233 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 23:36:56,999 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 23:36:57,003 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 23:36:57,015 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 23:36:57,016 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 23:37:09,384 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 23:37:09,384 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 23:37:09,389 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 23:37:09,389 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 23:37:09,390 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 23:37:12,109 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 23:42:59,788 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 23:43:00,025 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 23:43:00,025 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 23:43:00,084 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 23:43:00,084 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 23:43:09,000 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 23:43:09,000 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 23:43:09,004 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 23:43:09,004 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 23:43:09,004 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 23:43:09,382 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-26 23:43:34,608 - [INFO] - src.train - (train.py).train_model(146) - Completed training for cluster 2
+2022-01-26 23:43:37,725 - [INFO] - src.train - (train.py).train_model(146) - Completed training for cluster 1
+2022-01-26 23:43:40,559 - [INFO] - src.train - (train.py).train_model(146) - Completed training for cluster 0
+2022-01-26 23:43:43,485 - [INFO] - src.train - (train.py).train_model(146) - Completed training for cluster 3
+2022-01-26 23:43:43,485 - [INFO] - src.train - (train.py).train_model(149) - Successful End of Training
+2022-01-26 23:48:32,472 - [INFO] - src.train - (train.py).start_training(25) - Validation of raw files started 
+2022-01-26 23:48:32,619 - [INFO] - src.train - (train.py).start_training(43) - Validation of raw files completed
+2022-01-26 23:48:32,619 - [INFO] - src.train - (train.py).start_training(44) - Creating Training_Database and tables on the basis of given schema
+2022-01-26 23:48:32,622 - [INFO] - src.train - (train.py).start_training(48) - Table creation Completed
+2022-01-26 23:48:32,622 - [INFO] - src.train - (train.py).start_training(49) - Insertion of Data into Table started
+2022-01-26 23:48:42,025 - [INFO] - src.train - (train.py).start_training(54) - Good data folder deleted
+2022-01-26 23:48:42,025 - [INFO] - src.train - (train.py).start_training(55) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-26 23:48:42,028 - [INFO] - src.train - (train.py).start_training(57) - Bad files moved to archive!! Bad folder Deleted
+2022-01-26 23:48:42,028 - [INFO] - src.train - (train.py).start_training(58) - Validation Operation completed
+2022-01-26 23:48:42,028 - [INFO] - src.train - (train.py).start_training(59) - Extracting csv file from table
+2022-01-26 23:48:42,739 - [INFO] - src.train - (train.py).train_model(65) - Start of training..
+2022-01-27 00:15:05,704 - [INFO] - src.train - (train.py).train_model(146) - Completed training for cluster 2

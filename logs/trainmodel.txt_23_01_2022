@@ -1,0 +1,12 @@
+2022-01-23 00:23:51,117 - [INFO] - src.train - (train.py).start_training(24) - Validation of raw files started 
+2022-01-23 00:23:51,363 - [INFO] - src.train - (train.py).start_training(42) - Validation of raw files completed
+2022-01-23 00:23:51,363 - [INFO] - src.train - (train.py).start_training(43) - Creating Training_Database and tables on the basis of given schema
+2022-01-23 00:23:51,394 - [INFO] - src.train - (train.py).start_training(47) - Table creation Completed
+2022-01-23 00:23:51,394 - [INFO] - src.train - (train.py).start_training(48) - Insertion of Data into Table started
+2022-01-23 00:23:59,552 - [INFO] - src.train - (train.py).start_training(53) - Good data folder deleted
+2022-01-23 00:23:59,553 - [INFO] - src.train - (train.py).start_training(54) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-23 00:23:59,558 - [INFO] - src.train - (train.py).start_training(56) - Bad files moved to archive!! Bad folder Deleted
+2022-01-23 00:23:59,558 - [INFO] - src.train - (train.py).start_training(57) - Validation Operation completed
+2022-01-23 00:23:59,558 - [INFO] - src.train - (train.py).start_training(58) - Extracting csv file from table
+2022-01-23 00:23:59,595 - [INFO] - src.train - (train.py).train_model(64) - Start of training..
+2022-01-23 00:26:36,577 - [INFO] - src.train - (train.py).train_model(142) - Successful End of Training

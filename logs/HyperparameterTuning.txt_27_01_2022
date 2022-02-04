@@ -1,0 +1,110 @@
+2022-01-27 09:36:14,571 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_KNN(84) - Tuning Started for KNN
+2022-01-27 09:36:27,827 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_ridge(118) - Tuning Started for Ridge regression
+2022-01-27 09:36:28,019 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_Lasso(101) - Tuning Started for Lasso regression
+2022-01-27 09:36:28,209 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_SVR(67) - Tuning Started for Support Vector Regression
+2022-01-27 09:36:28,923 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_catboost(248) - Tuning Started for CatBoost
+2022-01-27 09:38:36,640 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_random_forest(46) - Tuning Started for Random Forest
+2022-01-27 09:39:51,034 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_gradientboost(159) - Tuning Started for GradientBoost
+2022-01-27 09:40:44,605 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_xgboost(203) - Tuning Started for XGBoost
+2022-01-27 09:52:55,454 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_lightgbm(227) - Tuning Started for LightGBM
+2022-01-27 09:54:55,341 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_adaboost(138) - Tuning Started for Adaboost
+2022-01-27 09:56:15,798 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_extratrees(179) - Tuning Started for ExtraTreesRegressor
+2022-01-27 10:13:20,313 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_KNN(84) - Tuning Started for KNN
+2022-01-27 10:13:20,313 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_KNN(84) - Tuning Started for KNN
+2022-01-27 10:13:28,656 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_ridge(118) - Tuning Started for Ridge regression
+2022-01-27 10:13:28,656 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_ridge(118) - Tuning Started for Ridge regression
+2022-01-27 10:13:28,914 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_Lasso(101) - Tuning Started for Lasso regression
+2022-01-27 10:13:28,914 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_Lasso(101) - Tuning Started for Lasso regression
+2022-01-27 10:13:29,132 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_SVR(67) - Tuning Started for Support Vector Regression
+2022-01-27 10:13:29,132 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_SVR(67) - Tuning Started for Support Vector Regression
+2022-01-27 10:13:32,921 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_catboost(248) - Tuning Started for CatBoost
+2022-01-27 10:13:32,921 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_catboost(248) - Tuning Started for CatBoost
+2022-01-27 10:15:55,621 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_random_forest(46) - Tuning Started for Random Forest
+2022-01-27 10:15:55,621 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_random_forest(46) - Tuning Started for Random Forest
+2022-01-27 10:17:19,741 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_gradientboost(159) - Tuning Started for GradientBoost
+2022-01-27 10:17:19,741 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_gradientboost(159) - Tuning Started for GradientBoost
+2022-01-27 10:18:15,728 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_xgboost(203) - Tuning Started for XGBoost
+2022-01-27 10:18:15,728 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_xgboost(203) - Tuning Started for XGBoost
+2022-01-27 10:43:25,608 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_lightgbm(227) - Tuning Started for LightGBM
+2022-01-27 10:43:25,608 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_lightgbm(227) - Tuning Started for LightGBM
+2022-01-27 10:46:34,321 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_adaboost(138) - Tuning Started for Adaboost
+2022-01-27 10:46:34,321 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_adaboost(138) - Tuning Started for Adaboost
+2022-01-27 10:47:37,809 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_extratrees(179) - Tuning Started for ExtraTreesRegressor
+2022-01-27 10:47:37,809 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_extratrees(179) - Tuning Started for ExtraTreesRegressor
+2022-01-27 11:04:12,947 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_KNN(84) - Tuning Started for KNN
+2022-01-27 11:04:12,947 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_KNN(84) - Tuning Started for KNN
+2022-01-27 11:04:12,947 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_KNN(84) - Tuning Started for KNN
+2022-01-27 11:04:23,271 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_ridge(118) - Tuning Started for Ridge regression
+2022-01-27 11:04:23,271 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_ridge(118) - Tuning Started for Ridge regression
+2022-01-27 11:04:23,271 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_ridge(118) - Tuning Started for Ridge regression
+2022-01-27 11:04:23,560 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_Lasso(101) - Tuning Started for Lasso regression
+2022-01-27 11:04:23,560 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_Lasso(101) - Tuning Started for Lasso regression
+2022-01-27 11:04:23,560 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_Lasso(101) - Tuning Started for Lasso regression
+2022-01-27 11:04:23,785 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_SVR(67) - Tuning Started for Support Vector Regression
+2022-01-27 11:04:23,785 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_SVR(67) - Tuning Started for Support Vector Regression
+2022-01-27 11:04:23,785 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_SVR(67) - Tuning Started for Support Vector Regression
+2022-01-27 11:04:29,731 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_catboost(248) - Tuning Started for CatBoost
+2022-01-27 11:04:29,731 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_catboost(248) - Tuning Started for CatBoost
+2022-01-27 11:04:29,731 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_catboost(248) - Tuning Started for CatBoost
+2022-01-27 11:06:54,700 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_random_forest(46) - Tuning Started for Random Forest
+2022-01-27 11:06:54,700 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_random_forest(46) - Tuning Started for Random Forest
+2022-01-27 11:06:54,700 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_random_forest(46) - Tuning Started for Random Forest
+2022-01-27 11:08:06,824 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_gradientboost(159) - Tuning Started for GradientBoost
+2022-01-27 11:08:06,824 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_gradientboost(159) - Tuning Started for GradientBoost
+2022-01-27 11:08:06,824 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_gradientboost(159) - Tuning Started for GradientBoost
+2022-01-27 11:09:10,113 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_xgboost(203) - Tuning Started for XGBoost
+2022-01-27 11:09:10,113 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_xgboost(203) - Tuning Started for XGBoost
+2022-01-27 11:09:10,113 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_xgboost(203) - Tuning Started for XGBoost
+2022-01-27 11:20:33,393 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_lightgbm(227) - Tuning Started for LightGBM
+2022-01-27 11:20:33,393 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_lightgbm(227) - Tuning Started for LightGBM
+2022-01-27 11:20:33,393 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_lightgbm(227) - Tuning Started for LightGBM
+2022-01-27 11:22:32,878 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_adaboost(138) - Tuning Started for Adaboost
+2022-01-27 11:22:32,878 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_adaboost(138) - Tuning Started for Adaboost
+2022-01-27 11:22:32,878 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_adaboost(138) - Tuning Started for Adaboost
+2022-01-27 11:23:52,054 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_extratrees(179) - Tuning Started for ExtraTreesRegressor
+2022-01-27 11:23:52,054 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_extratrees(179) - Tuning Started for ExtraTreesRegressor
+2022-01-27 11:23:52,054 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_extratrees(179) - Tuning Started for ExtraTreesRegressor
+2022-01-27 11:39:50,029 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_KNN(84) - Tuning Started for KNN
+2022-01-27 11:39:50,029 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_KNN(84) - Tuning Started for KNN
+2022-01-27 11:39:50,029 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_KNN(84) - Tuning Started for KNN
+2022-01-27 11:39:50,029 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_KNN(84) - Tuning Started for KNN
+2022-01-27 11:39:58,955 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_ridge(118) - Tuning Started for Ridge regression
+2022-01-27 11:39:58,955 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_ridge(118) - Tuning Started for Ridge regression
+2022-01-27 11:39:58,955 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_ridge(118) - Tuning Started for Ridge regression
+2022-01-27 11:39:58,955 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_ridge(118) - Tuning Started for Ridge regression
+2022-01-27 11:39:59,244 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_Lasso(101) - Tuning Started for Lasso regression
+2022-01-27 11:39:59,244 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_Lasso(101) - Tuning Started for Lasso regression
+2022-01-27 11:39:59,244 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_Lasso(101) - Tuning Started for Lasso regression
+2022-01-27 11:39:59,244 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_Lasso(101) - Tuning Started for Lasso regression
+2022-01-27 11:39:59,486 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_SVR(67) - Tuning Started for Support Vector Regression
+2022-01-27 11:39:59,486 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_SVR(67) - Tuning Started for Support Vector Regression
+2022-01-27 11:39:59,486 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_SVR(67) - Tuning Started for Support Vector Regression
+2022-01-27 11:39:59,486 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_SVR(67) - Tuning Started for Support Vector Regression
+2022-01-27 11:40:01,710 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_catboost(248) - Tuning Started for CatBoost
+2022-01-27 11:40:01,710 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_catboost(248) - Tuning Started for CatBoost
+2022-01-27 11:40:01,710 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_catboost(248) - Tuning Started for CatBoost
+2022-01-27 11:40:01,710 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_catboost(248) - Tuning Started for CatBoost
+2022-01-27 11:42:26,270 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_random_forest(46) - Tuning Started for Random Forest
+2022-01-27 11:42:26,270 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_random_forest(46) - Tuning Started for Random Forest
+2022-01-27 11:42:26,270 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_random_forest(46) - Tuning Started for Random Forest
+2022-01-27 11:42:26,270 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_random_forest(46) - Tuning Started for Random Forest
+2022-01-27 11:43:41,879 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_gradientboost(159) - Tuning Started for GradientBoost
+2022-01-27 11:43:41,879 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_gradientboost(159) - Tuning Started for GradientBoost
+2022-01-27 11:43:41,879 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_gradientboost(159) - Tuning Started for GradientBoost
+2022-01-27 11:43:41,879 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_gradientboost(159) - Tuning Started for GradientBoost
+2022-01-27 11:44:33,025 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_xgboost(203) - Tuning Started for XGBoost
+2022-01-27 11:44:33,025 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_xgboost(203) - Tuning Started for XGBoost
+2022-01-27 11:44:33,025 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_xgboost(203) - Tuning Started for XGBoost
+2022-01-27 11:44:33,025 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_xgboost(203) - Tuning Started for XGBoost
+2022-01-27 11:55:46,423 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_lightgbm(227) - Tuning Started for LightGBM
+2022-01-27 11:55:46,423 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_lightgbm(227) - Tuning Started for LightGBM
+2022-01-27 11:55:46,423 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_lightgbm(227) - Tuning Started for LightGBM
+2022-01-27 11:55:46,423 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_lightgbm(227) - Tuning Started for LightGBM
+2022-01-27 11:57:09,909 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_adaboost(138) - Tuning Started for Adaboost
+2022-01-27 11:57:09,909 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_adaboost(138) - Tuning Started for Adaboost
+2022-01-27 11:57:09,909 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_adaboost(138) - Tuning Started for Adaboost
+2022-01-27 11:57:09,909 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_adaboost(138) - Tuning Started for Adaboost
+2022-01-27 11:58:14,731 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_extratrees(179) - Tuning Started for ExtraTreesRegressor
+2022-01-27 11:58:14,731 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_extratrees(179) - Tuning Started for ExtraTreesRegressor
+2022-01-27 11:58:14,731 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_extratrees(179) - Tuning Started for ExtraTreesRegressor
+2022-01-27 11:58:14,731 - [INFO] - src.hyperparameter_tuning - (hyperparameter_tuning.py).hyperparams_extratrees(179) - Tuning Started for ExtraTreesRegressor

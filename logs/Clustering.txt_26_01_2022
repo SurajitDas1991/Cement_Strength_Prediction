@@ -1,0 +1,156 @@
+2022-01-26 00:19:52,729 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 00:20:17,691 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 00:20:17,691 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 00:20:17,994 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 00:23:35,746 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 00:24:05,587 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 00:24:05,587 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 00:24:05,779 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 00:30:54,421 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 00:31:16,140 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 00:31:16,140 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 00:31:16,274 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 00:35:29,232 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 00:35:50,086 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 00:35:50,087 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 00:35:51,513 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 00:39:15,940 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 00:39:40,573 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 00:39:40,573 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 00:39:40,817 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 12:29:35,202 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 12:29:55,882 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 12:29:55,882 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 12:29:59,559 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 14:48:52,078 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 14:49:03,476 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 14:49:03,477 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 14:49:05,179 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 14:53:30,521 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 14:53:41,976 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 14:53:41,977 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 14:53:42,748 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 15:53:29,308 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 15:53:48,712 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 15:53:48,713 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 15:53:49,832 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 16:33:03,350 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 16:33:12,047 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 16:33:12,047 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 16:33:12,587 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 17:30:09,785 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 17:30:23,306 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 17:30:23,320 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 17:30:24,747 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 17:33:00,054 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 17:33:11,742 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 17:33:11,742 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 17:33:14,470 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 17:39:57,015 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 17:40:12,180 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 17:40:12,180 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 17:40:12,906 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 17:43:11,725 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 17:43:22,391 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 17:43:22,392 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 17:43:22,601 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 17:57:05,363 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 17:57:23,720 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 17:57:23,721 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 17:57:24,327 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 18:37:05,747 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 18:37:14,206 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 18:37:14,207 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 18:37:16,424 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 19:15:02,288 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 19:15:16,543 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 19:15:16,544 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 19:15:19,334 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 19:27:53,678 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 19:28:01,044 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 19:28:01,045 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 19:28:03,792 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 19:46:25,751 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 19:46:41,460 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 19:46:41,460 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 19:46:41,690 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 20:15:12,035 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 20:15:24,495 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 20:15:24,495 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 20:15:24,836 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 20:19:09,066 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 20:19:23,890 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 20:19:23,891 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 20:19:25,258 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 20:35:41,942 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 20:35:56,753 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 20:35:56,753 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 20:35:59,919 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 20:39:14,909 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 20:39:31,607 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 20:39:31,607 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 20:39:33,678 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 20:44:40,749 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 20:44:56,775 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 20:44:56,775 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 20:45:00,130 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 20:47:49,225 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 20:48:09,994 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 20:48:09,994 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 20:48:10,752 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 20:51:21,095 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 20:51:35,090 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 20:51:35,090 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 20:51:36,630 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 21:01:21,603 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 21:01:36,052 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 21:01:36,052 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 21:01:37,019 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 21:06:51,063 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 21:07:05,380 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 21:07:05,381 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 21:07:08,303 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 21:16:01,960 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 21:16:20,573 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 21:16:20,574 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 21:16:21,700 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 21:56:17,722 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 21:56:27,830 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 21:56:27,830 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 21:56:28,637 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 22:01:18,743 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 22:01:32,734 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 22:01:32,734 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 22:01:32,970 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 22:12:06,349 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 22:12:19,090 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 22:12:19,090 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 22:12:20,416 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 23:09:46,833 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 23:10:06,008 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 23:10:06,008 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 23:10:07,915 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 23:24:51,687 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 23:25:05,061 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 23:25:05,062 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 23:25:08,291 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 23:27:49,074 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 23:28:01,516 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 23:28:01,517 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 23:28:01,787 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 23:34:05,656 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 23:34:27,106 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 23:34:27,107 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 23:34:29,123 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 23:37:12,212 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 23:37:23,076 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 23:37:23,077 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 23:37:23,933 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 23:43:09,497 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 23:43:31,417 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 23:43:31,417 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 23:43:31,667 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-01-26 23:48:42,832 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-26 23:48:59,095 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-26 23:48:59,095 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-26 23:49:00,302 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class

@@ -1,0 +1,29 @@
+2022-01-21 21:46:10,407 - [INFO] - src.train - (train.py).start_training(16) - Validation of raw files started 
+2022-01-21 21:46:10,690 - [INFO] - src.train - (train.py).start_training(34) - Validation of raw files completed
+2022-01-21 21:48:50,311 - [INFO] - src.train - (train.py).start_training(16) - Validation of raw files started 
+2022-01-21 21:55:10,685 - [INFO] - src.train - (train.py).start_training(34) - Validation of raw files completed
+2022-01-21 23:29:50,767 - [INFO] - src.train - (train.py).start_training(16) - Validation of raw files started 
+2022-01-21 23:29:50,873 - [INFO] - src.train - (train.py).start_training(34) - Validation of raw files completed
+2022-01-21 23:29:50,873 - [INFO] - src.train - (train.py).start_training(35) - Creating Training_Database and tables on the basis of given schema
+2022-01-21 23:29:50,875 - [INFO] - src.train - (train.py).start_training(37) - Table creation Completed
+2022-01-21 23:29:50,875 - [INFO] - src.train - (train.py).start_training(38) - Insertion of Data into Table started
+2022-01-21 23:29:50,895 - [ERROR] - src.train - (train.py).start_training(51) - Error in the training process - str'NoneType' object has no attribute 'rollback'
+2022-01-21 23:32:47,790 - [INFO] - src.train - (train.py).start_training(16) - Validation of raw files started 
+2022-01-21 23:32:47,893 - [INFO] - src.train - (train.py).start_training(34) - Validation of raw files completed
+2022-01-21 23:32:47,894 - [INFO] - src.train - (train.py).start_training(35) - Creating Training_Database and tables on the basis of given schema
+2022-01-21 23:32:47,895 - [INFO] - src.train - (train.py).start_training(37) - Table creation Completed
+2022-01-21 23:32:47,896 - [INFO] - src.train - (train.py).start_training(38) - Insertion of Data into Table started
+2022-01-21 23:32:47,919 - [ERROR] - src.train - (train.py).start_training(51) - Error in the training process - str'NoneType' object has no attribute 'rollback'
+2022-01-21 23:33:58,345 - [INFO] - src.train - (train.py).start_training(16) - Validation of raw files started 
+2022-01-21 23:33:58,572 - [INFO] - src.train - (train.py).start_training(34) - Validation of raw files completed
+2022-01-21 23:33:58,573 - [INFO] - src.train - (train.py).start_training(35) - Creating Training_Database and tables on the basis of given schema
+2022-01-21 23:35:28,627 - [INFO] - src.train - (train.py).start_training(16) - Validation of raw files started 
+2022-01-21 23:35:28,729 - [INFO] - src.train - (train.py).start_training(34) - Validation of raw files completed
+2022-01-21 23:35:28,730 - [INFO] - src.train - (train.py).start_training(35) - Creating Training_Database and tables on the basis of given schema
+2022-01-21 23:35:28,796 - [INFO] - src.train - (train.py).start_training(37) - Table creation Completed
+2022-01-21 23:35:28,796 - [INFO] - src.train - (train.py).start_training(38) - Insertion of Data into Table started
+2022-01-21 23:35:37,018 - [INFO] - src.train - (train.py).start_training(43) - Good data folder deleted
+2022-01-21 23:35:37,018 - [INFO] - src.train - (train.py).start_training(44) - Moving bad files to Archive and deleting Bad_Data folder
+2022-01-21 23:35:37,023 - [INFO] - src.train - (train.py).start_training(46) - Bad files moved to archive!! Bad folder Deleted
+2022-01-21 23:35:37,024 - [INFO] - src.train - (train.py).start_training(47) - Validation Operation completed
+2022-01-21 23:35:37,024 - [INFO] - src.train - (train.py).start_training(48) - Extracting csv file from table

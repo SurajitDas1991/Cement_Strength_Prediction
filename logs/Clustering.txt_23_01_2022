@@ -1,0 +1,4 @@
+2022-01-23 00:23:59,685 - [INFO] - src.clustering - (clustering.py).elbow_plot(22) - Getting the best number of clusters for the data provided
+2022-01-23 00:24:26,688 - [INFO] - src.clustering - (clustering.py).elbow_plot(46) - The optimum number of clusters is: 4 . Exited the elbow_plot method of the KMeansClustering class
+2022-01-23 00:24:26,689 - [INFO] - src.clustering - (clustering.py).create_clusters(64) - Entered the create_clusters method of the KMeansClustering class
+2022-01-23 00:24:30,820 - [INFO] - src.clustering - (clustering.py).create_clusters(85) - Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class

@@ -1,0 +1,72 @@
+2022-01-21 21:46:10,477 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-21 21:46:10,481 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-21 21:46:10,486 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-21 21:46:10,516 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-21 21:46:10,539 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-21 21:46:10,564 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-21 21:46:10,564 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-21 21:46:10,598 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-21 21:46:10,635 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-21 21:46:10,636 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-21 21:49:20,142 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-21 21:50:13,456 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-21 21:50:17,957 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-21 21:50:40,653 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-21 21:51:06,506 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-21 21:51:45,877 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-21 21:52:06,087 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-21 21:52:20,605 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-21 21:52:25,859 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-21 21:52:52,148 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-21 21:53:05,901 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-21 21:53:10,381 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-21 23:29:50,768 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-21 23:29:50,770 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-21 23:29:50,771 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-21 23:29:50,773 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-21 23:29:50,776 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-21 23:29:50,779 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-21 23:29:50,781 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-21 23:29:50,783 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-21 23:29:50,783 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-21 23:29:50,814 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-21 23:29:50,840 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-21 23:29:50,840 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-21 23:32:47,791 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-21 23:32:47,794 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-21 23:32:47,795 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-21 23:32:47,797 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-21 23:32:47,800 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-21 23:32:47,803 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-21 23:32:47,805 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-21 23:32:47,808 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-21 23:32:47,808 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-21 23:32:47,840 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-21 23:32:47,863 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-21 23:32:47,863 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-21 23:33:58,348 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-21 23:33:58,354 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-21 23:33:58,356 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-21 23:33:58,360 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-21 23:33:58,371 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-21 23:33:58,378 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-21 23:33:58,382 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-21 23:33:58,386 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-21 23:33:58,387 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-21 23:33:58,450 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-21 23:33:58,491 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-21 23:33:58,491 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-21 23:35:28,627 - [INFO] - src.raw_data_validation - (raw_data_validation.py).values_from_schema(39) - Completed processing of training json file
+2022-01-21 23:35:28,629 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_bad_data_training_folder(95) - Existing Bad raw data folder deleted
+2022-01-21 23:35:28,630 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-21 23:35:28,632 - [INFO] - src.raw_data_validation - (raw_data_validation.py).create_good_bad_raw_data_folder(73) - Created folders for processed good and bad raw files
+2022-01-21 23:35:28,636 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(172) - Invalid File name!! File moved to Bad raw folder .gitkeep
+2022-01-21 23:35:28,639 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(158) - Invalid File name!! File moved to Bad raw folder cement_strength_08012020_1200.csv
+2022-01-21 23:35:28,641 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120000.csv
+2022-01-21 23:35:28,644 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_raw_file_name(150) - Valid File name!! File moved to GoodRaw Folder cement_strength_08012020_120021.csv
+2022-01-21 23:35:28,645 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(187) - Column Length Validation Started
+2022-01-21 23:35:28,673 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(196) - Invalid Column Length for the file!! File moved to Bad Raw Folder cement_strength_08012020_120000.csv
+2022-01-21 23:35:28,700 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_column_length(199) - Column Length Validation Completed
+2022-01-21 23:35:28,700 - [INFO] - src.raw_data_validation - (raw_data_validation.py).validate_missing_values_in_whole_column(208) - Missing Values Validation Started
+2022-01-21 23:35:37,018 - [INFO] - src.raw_data_validation - (raw_data_validation.py).delete_existing_good_data_training_folder(84) - Existing Good raw data folder deleted
+2022-01-21 23:35:37,023 - [ERROR] - src.raw_data_validation - (raw_data_validation.py).move_bad_files_to_archived(127) - Error while moving bad raw files to archive - str[Errno 2] No such file or directory: 'C:\\Home\\Git\\cementstrength\\data\\processed\\bad_raw.gitkeep'
